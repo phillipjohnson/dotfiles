@@ -1,2 +1,2 @@
-export GOPATH=$PROJECTS/go
+export GOPATH=$PROJECTS/gocode
 export PATH="$GOPATH/bin:$PATH"
