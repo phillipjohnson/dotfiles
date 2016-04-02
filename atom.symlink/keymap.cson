@@ -1,0 +1,3 @@
+'.workspace .editor':
+  'cmd-e': 'unset!'
+  'cmd-e': 'editor:delete-line'
